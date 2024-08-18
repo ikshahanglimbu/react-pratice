@@ -15,3 +15,4 @@ const CardCompo = ({title, detail, url}) => {
 }
 
 export default CardCompo
+ 
